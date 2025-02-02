@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Quiz App - Built with React.js and Vite:------->
 
 This web-based quiz application was developed using React.js and Vite to offer an engaging and gamified experience. 
@@ -22,3 +23,13 @@ The timer starts ticking down, adding a challenge to complete the quiz in time.
 Users can use the 50-50 or Hint buttons to aid in answering tricky questions.
 After completing the quiz, a summary screen displays their results.
 This app was built with a focus on clean, maintainable code and an aesthetic, user-friendly interface that motivates users to engage and improve their quiz performance.
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 1f558ed (Initial commit - Uploading Quiz App)
